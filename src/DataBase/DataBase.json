@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Đỗ Mạnh Hà",
+        "phone": "0344982572",
+        "permission": "Moderator" 
+    },
+    {
+        "name": "Iron man",
+        "phone": "0344982572",
+        "permission": "Admin" 
+    },
+    {
+        "name": "Captian America",
+        "phone": "0344982572",
+        "permission": "User" 
+    },
+    {
+        "name": "Black Panther",
+        "phone": "0344982572",
+        "permission": "Default" 
+    },
+    {
+        "name": "Ant man",
+        "phone": "0344982572",
+        "permission": "User" 
+    },
+    {
+        "name": "Spiderman",
+        "phone": "0344982572",
+        "permission": "Default" 
+    },
+    {
+        "name": "Hulk",
+        "phone": "0344982572",
+        "permission": "Default" 
+    },
+    {
+        "name": "Thor",
+        "phone": "0344982572",
+        "permission": "Default" 
+    }
+]
